@@ -1,0 +1,5556 @@
+[
+  {
+    "id": "t-eoo",
+    "title": "EoO",
+    "artist": "Bad Bunny",
+    "album": null,
+    "year": null,
+    "stationId": "cocoteo-fm",
+    "genre": "Latin moderno",
+    "status": "official",
+    "sourceIds": [
+      "yt-eoo"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+    "confirmedAt": "2026-10-08"
+  },
+  {
+    "id": "t-pepas",
+    "title": "Pepas",
+    "artist": "Farruko",
+    "album": null,
+    "year": null,
+    "stationId": "cocoteo-fm",
+    "genre": "Latin moderno",
+    "status": "official",
+    "sourceIds": [
+      "yt-pepas"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+    "confirmedAt": "2026-10-08"
+  },
+  {
+    "id": "t-si-es-trucho-remix",
+    "title": "Si Es Trucho Es Trucho (Remix)",
+    "artist": "Axel Rulay feat. Farruko & El Alfa",
+    "album": null,
+    "year": null,
+    "stationId": "cocoteo-fm",
+    "genre": "Latin moderno",
+    "status": "official",
+    "sourceIds": ["yt-si-es-trucho-es-trucho-remix"],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+    "confirmedAt": "2026-10-08"
+  },
+  {
+    "id": "t-canalla",
+    "title": "Canalla",
+    "artist": "Romeo Santos & El Chaval de la Bachata",
+    "album": null,
+    "year": null,
+    "stationId": "cocoteo-fm",
+    "genre": "Latin moderno",
+    "status": "official",
+    "sourceIds": [
+      "yt-canalla"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+    "confirmedAt": "2026-10-08"
+  },
+  {
+    "id": "t-david-allan-coe",
+    "title": "Need a Little Time Off for Bad Behavior",
+    "artist": "David Allan Coe",
+    "album": null,
+    "year": null,
+    "stationId": "back-country-radio",
+    "genre": "Country renegado",
+    "status": "official",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+    "confirmedAt": "2026-10-08"
+  },
+  {
+    "id": "t-loretta-lynn",
+    "title": "Don't Come Home A-Drinkin' (With Lovin' On Your Mind)",
+    "artist": "Loretta Lynn",
+    "album": null,
+    "year": null,
+    "stationId": "back-country-radio",
+    "genre": "Country renegado",
+    "status": "official",
+    "sourceIds": [
+      "yt-loretta-lynn"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+    "confirmedAt": "2026-10-08"
+  },
+  {
+    "id": "t-hank-waylon",
+    "title": "The Conversation",
+    "artist": "Hank Williams, Jr. & Waylon Jennings",
+    "album": null,
+    "year": null,
+    "stationId": "back-country-radio",
+    "genre": "Country renegado",
+    "status": "official",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+    "confirmedAt": "2026-10-08"
+  },
+  {
+    "id": "t-asake-joha",
+    "title": "Joha",
+    "artist": "Asake",
+    "album": null,
+    "year": null,
+    "stationId": "afrobank-fm",
+    "genre": "Música africana",
+    "status": "official",
+    "sourceIds": [
+      "yt-asake-joha"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+    "confirmedAt": "2026-10-08"
+  },
+  {
+    "id": "t-pat-thomas-gye-wani",
+    "title": "Gye Wani",
+    "artist": "Pat Thomas feat. Ebo Taylor",
+    "album": null,
+    "year": null,
+    "stationId": "afrobank-fm",
+    "genre": "Música africana",
+    "status": "official",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+    "confirmedAt": "2026-10-08"
+  },
+  {
+    "id": "t-dj-lag-shaysana",
+    "title": "Shay'sana",
+    "artist": "DJ Lag & Robot Boii feat. Kamo Mphela",
+    "album": null,
+    "year": null,
+    "stationId": "afrobank-fm",
+    "genre": "Música africana",
+    "status": "official",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+    "confirmedAt": "2026-10-08"
+  },
+  {
+    "id": "t-black-sabbath-i",
+    "title": "I",
+    "artist": "Black Sabbath",
+    "album": null,
+    "year": null,
+    "stationId": "the-chamber-106-6",
+    "genre": "Metal",
+    "status": "official",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+    "confirmedAt": "2026-10-08"
+  },
+  {
+    "id": "t-pantera-im-broken",
+    "title": "I'm Broken",
+    "artist": "Pantera",
+    "album": null,
+    "year": null,
+    "stationId": "the-chamber-106-6",
+    "genre": "Metal",
+    "status": "official",
+    "sourceIds": [
+      "yt-im-broken"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+    "confirmedAt": "2026-10-08"
+  },
+  {
+    "id": "t-slayer-raining-blood",
+    "title": "Raining Blood",
+    "artist": "Slayer",
+    "album": null,
+    "year": null,
+    "stationId": "the-chamber-106-6",
+    "genre": "Metal",
+    "status": "official",
+    "sourceIds": [
+      "yt-raining-blood"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+    "confirmedAt": "2026-10-08"
+  },
+  {
+    "id": "t-charli-good-ones",
+    "title": "Good Ones",
+    "artist": "Charli xcx",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "official",
+    "sourceIds": [
+      "yt-good-ones"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+    "confirmedAt": "2026-10-08"
+  },
+  {
+    "id": "t-mgmt-electric-feel",
+    "title": "Electric Feel",
+    "artist": "MGMT",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "official",
+    "sourceIds": [
+      "yt-electric-feel"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+    "confirmedAt": "2026-10-08"
+  },
+  {
+    "id": "t-zara-midnight-sun",
+    "title": "Midnight Sun (Girls Trip)",
+    "artist": "Zara Larsson & PinkPantheress",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "official",
+    "sourceIds": ["yt-midnight-sun"],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+    "confirmedAt": "2026-10-08"
+  },
+  {
+    "id": "t-david-banner-like-a-pimp",
+    "title": "Like A Pimp",
+    "artist": "David Banner feat. Lil' Flip",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "official",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+    "confirmedAt": "2026-10-08"
+  },
+  {
+    "id": "t-jt-money-who-dat",
+    "title": "Who Dat",
+    "artist": "JT Money feat. Solé",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "official",
+    "sourceIds": [
+      "yt-jt-money-who-dat"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+    "confirmedAt": "2026-10-08"
+  },
+  {
+    "id": "t-dj-khaled-born-n-raised",
+    "title": "Born N Raised",
+    "artist": "DJ Khaled feat. Trick Daddy, Rick Ross & Pitbull",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "official",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+    "confirmedAt": "2026-10-08"
+  },
+  {
+    "id": "t-emotion-98-3-1",
+    "title": "Drive",
+    "artist": "The Cars",
+    "album": null,
+    "year": null,
+    "stationId": "emotion-98-3",
+    "genre": "Soft rock",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-emotion-98-3-1"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-emotion-98-3-2",
+    "title": "In the Air Tonight",
+    "artist": "Phil Collins",
+    "album": null,
+    "year": null,
+    "stationId": "emotion-98-3",
+    "genre": "Soft rock",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-emotion-98-3-2"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-emotion-98-3-3",
+    "title": "Listen to Your Heart",
+    "artist": "Roxette",
+    "album": null,
+    "year": null,
+    "stationId": "emotion-98-3",
+    "genre": "Soft rock",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-emotion-98-3-3"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-emotion-98-3-4",
+    "title": "The Way It Is",
+    "artist": "Bruce Hornsby & The Range",
+    "album": null,
+    "year": null,
+    "stationId": "emotion-98-3",
+    "genre": "Soft rock",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-emotion-98-3-4"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-vice-city-fm-1",
+    "title": "Loverboy",
+    "artist": "Billy Ocean",
+    "album": null,
+    "year": null,
+    "stationId": "vice-city-fm",
+    "genre": "Pop de los 80",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-vice-city-fm-1"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-vice-city-fm-2",
+    "title": "All Night Long",
+    "artist": "Lionel Richie",
+    "album": null,
+    "year": null,
+    "stationId": "vice-city-fm",
+    "genre": "Pop de los 80",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-vice-city-fm-2"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-vice-city-fm-3",
+    "title": "Thieves Like Us",
+    "artist": "New Order",
+    "album": null,
+    "year": null,
+    "stationId": "vice-city-fm",
+    "genre": "Pop de los 80",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-vice-city-fm-3"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-vice-city-fm-4",
+    "title": "Shattered Dreams",
+    "artist": "Johnny Hates Jazz",
+    "album": null,
+    "year": null,
+    "stationId": "vice-city-fm",
+    "genre": "Pop de los 80",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-vice-city-fm-4"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-stockyard-fm-1",
+    "title": "North American Scum",
+    "artist": "LCD Soundsystem",
+    "album": null,
+    "year": null,
+    "stationId": "stockyard-fm",
+    "genre": "Indie y dance",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-stockyard-fm-1"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-stockyard-fm-2",
+    "title": "Overpowered",
+    "artist": "Róisín Murphy",
+    "album": null,
+    "year": null,
+    "stationId": "stockyard-fm",
+    "genre": "Indie y dance",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-stockyard-fm-2"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-stockyard-fm-3",
+    "title": "One Night / All Night",
+    "artist": "Justice & Tame Impala",
+    "album": null,
+    "year": null,
+    "stationId": "stockyard-fm",
+    "genre": "Indie y dance",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-stockyard-fm-3"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-stockyard-fm-4",
+    "title": "Emerge",
+    "artist": "Fischerspooner",
+    "album": null,
+    "year": null,
+    "stationId": "stockyard-fm",
+    "genre": "Indie y dance",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-stockyard-fm-4"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-vcrr-1",
+    "title": "Nonstop",
+    "artist": "Drake",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-vcrr-1"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-vcrr-2",
+    "title": "Dior",
+    "artist": "Pop Smoke",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-vcrr-2"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-vcrr-3",
+    "title": "RHYNO",
+    "artist": "Travis Scott",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-vcrr-4",
+    "title": "Unforgettable",
+    "artist": "French Montana & Swae Lee",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-honey-fm-1",
+    "title": "Creep",
+    "artist": "TLC",
+    "album": null,
+    "year": null,
+    "stationId": "honey-fm",
+    "genre": "R&B y soul de los 90",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-honey-fm-1"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-honey-fm-2",
+    "title": "Too Close",
+    "artist": "Next",
+    "album": null,
+    "year": null,
+    "stationId": "honey-fm",
+    "genre": "R&B y soul de los 90",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-honey-fm-2"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-honey-fm-3",
+    "title": "Bad Girl",
+    "artist": "Usher",
+    "album": null,
+    "year": null,
+    "stationId": "honey-fm",
+    "genre": "R&B y soul de los 90",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-honey-fm-4",
+    "title": "Whip Appeal",
+    "artist": "Babyface",
+    "album": null,
+    "year": null,
+    "stationId": "honey-fm",
+    "genre": "R&B y soul de los 90",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-honey-fm-4"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-radio-la-ola-1",
+    "title": "Besito de Coco",
+    "artist": "Celia Cruz feat. Johnny Pacheco",
+    "album": null,
+    "year": null,
+    "stationId": "radio-la-ola",
+    "genre": "Latin clásico",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-radio-la-ola-1"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-radio-la-ola-2",
+    "title": "Pedro Navaja",
+    "artist": "Willie Colón & Rubén Blades",
+    "album": null,
+    "year": null,
+    "stationId": "radio-la-ola",
+    "genre": "Latin clásico",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-radio-la-ola-2"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-radio-la-ola-3",
+    "title": "Mi Tierra",
+    "artist": "Gloria Estefan",
+    "album": null,
+    "year": null,
+    "stationId": "radio-la-ola",
+    "genre": "Latin clásico",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-radio-la-ola-3"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-radio-la-ola-4",
+    "title": "Sopa de Caracol",
+    "artist": "Banda Blanca",
+    "album": null,
+    "year": null,
+    "stationId": "radio-la-ola",
+    "genre": "Latin clásico",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-radio-la-ola-4"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-radio-on-u-1",
+    "title": "Skylarking",
+    "artist": "Horace Andy",
+    "album": null,
+    "year": null,
+    "stationId": "radio-on-u",
+    "genre": "Reggae y dub",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-radio-on-u-1"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-radio-on-u-2",
+    "title": "Everything I Own",
+    "artist": "Ken Boothe",
+    "album": null,
+    "year": null,
+    "stationId": "radio-on-u",
+    "genre": "Reggae y dub",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-radio-on-u-2"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-radio-on-u-3",
+    "title": "Big Ship",
+    "artist": "Freddie McGregor",
+    "album": null,
+    "year": null,
+    "stationId": "radio-on-u",
+    "genre": "Reggae y dub",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-radio-on-u-3"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-radio-on-u-4",
+    "title": "Dub Inspector",
+    "artist": "Adrian Sherwood",
+    "album": null,
+    "year": null,
+    "stationId": "radio-on-u",
+    "genre": "Reggae y dub",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-radio-on-u-4"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-v-rock-1",
+    "title": "Runaway",
+    "artist": "Bon Jovi",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-v-rock-1"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-v-rock-2",
+    "title": "Panama",
+    "artist": "Van Halen",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-v-rock-2"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-v-rock-3",
+    "title": "Rock the Casbah",
+    "artist": "The Clash",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-v-rock-3"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-v-rock-4",
+    "title": "Cherry Pie",
+    "artist": "Warrant",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-v-rock-4"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gloriana-blues-radio-1",
+    "title": "Boogie Chillen",
+    "artist": "John Lee Hooker",
+    "album": null,
+    "year": null,
+    "stationId": "gloriana-blues-radio",
+    "genre": "Blues",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gloriana-blues-radio-1"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gloriana-blues-radio-2",
+    "title": "I Got What It Takes",
+    "artist": "Koko Taylor",
+    "album": null,
+    "year": null,
+    "stationId": "gloriana-blues-radio",
+    "genre": "Blues",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gloriana-blues-radio-2"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gloriana-blues-radio-3",
+    "title": "Didn't It Rain",
+    "artist": "Sister Rosetta Tharpe",
+    "album": null,
+    "year": null,
+    "stationId": "gloriana-blues-radio",
+    "genre": "Blues",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gloriana-blues-radio-3"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gloriana-blues-radio-4",
+    "title": "Me and My Chauffeur",
+    "artist": "Memphis Minnie",
+    "album": null,
+    "year": null,
+    "stationId": "gloriana-blues-radio",
+    "genre": "Blues",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gloriana-blues-radio-4"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-leonida-jazz-radio-1",
+    "title": "School Days",
+    "artist": "Stanley Clarke",
+    "album": null,
+    "year": null,
+    "stationId": "leonida-jazz-radio",
+    "genre": "Jazz fusión",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-leonida-jazz-radio-1"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-leonida-jazz-radio-2",
+    "title": "Sorceress",
+    "artist": "Return to Forever",
+    "album": null,
+    "year": null,
+    "stationId": "leonida-jazz-radio",
+    "genre": "Jazz fusión",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-leonida-jazz-radio-2"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-leonida-jazz-radio-3",
+    "title": "Night Crawlers",
+    "artist": "Bob James",
+    "album": null,
+    "year": null,
+    "stationId": "leonida-jazz-radio",
+    "genre": "Jazz fusión",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-leonida-jazz-radio-4",
+    "title": "Time Limit",
+    "artist": "Casiopea",
+    "album": null,
+    "year": null,
+    "stationId": "leonida-jazz-radio",
+    "genre": "Jazz fusión",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-leonida-jazz-radio-4"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-symphony-fm-1",
+    "title": "Messiah",
+    "artist": "George Frideric Handel",
+    "album": null,
+    "year": null,
+    "stationId": "symphony-fm",
+    "genre": "Clásica",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-symphony-fm-2",
+    "title": "Nocturnes, L. 91: II. Fêtes",
+    "artist": "Claude Debussy",
+    "album": null,
+    "year": null,
+    "stationId": "symphony-fm",
+    "genre": "Clásica",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-symphony-fm-3",
+    "title": "Symphony No. 6: Allegro Energico",
+    "artist": "Gustav Mahler",
+    "album": null,
+    "year": null,
+    "stationId": "symphony-fm",
+    "genre": "Clásica",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-symphony-fm-4",
+    "title": "Les Préludes",
+    "artist": "Franz Liszt",
+    "album": null,
+    "year": null,
+    "stationId": "symphony-fm",
+    "genre": "Clásica",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-worldwide-fm-1",
+    "title": "Smile",
+    "artist": "Jamiroquai",
+    "album": null,
+    "year": null,
+    "stationId": "worldwide-fm",
+    "genre": "World music y jazz",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-worldwide-fm-2",
+    "title": "The First Time Ever I Saw Your Face",
+    "artist": "Roberta Flack",
+    "album": null,
+    "year": null,
+    "stationId": "worldwide-fm",
+    "genre": "World music y jazz",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-worldwide-fm-2"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-worldwide-fm-3",
+    "title": "Star Chasers",
+    "artist": "4hero",
+    "album": null,
+    "year": null,
+    "stationId": "worldwide-fm",
+    "genre": "World music y jazz",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-worldwide-fm-3"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-worldwide-fm-4",
+    "title": "Atmosphere Strut",
+    "artist": "Cloud One",
+    "album": null,
+    "year": null,
+    "stationId": "worldwide-fm",
+    "genre": "World music y jazz",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-worldwide-fm-4"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-kaleidoscope-fm-1",
+    "title": "Herz Aus Glas",
+    "artist": "Marianne Rosenberg",
+    "album": null,
+    "year": null,
+    "stationId": "kaleidoscope-fm",
+    "genre": "Global pop ecléctico",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-kaleidoscope-fm-1"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-kaleidoscope-fm-2",
+    "title": "Chia Tay Trong Mua",
+    "artist": "Phương Thanh",
+    "album": null,
+    "year": null,
+    "stationId": "kaleidoscope-fm",
+    "genre": "Global pop ecléctico",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-kaleidoscope-fm-2"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-kaleidoscope-fm-3",
+    "title": "Say It Right",
+    "artist": "Alim Qasimov & Farghana Qasimova",
+    "album": null,
+    "year": null,
+    "stationId": "kaleidoscope-fm",
+    "genre": "Global pop ecléctico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-kaleidoscope-fm-4",
+    "title": "How You Remind Me",
+    "artist": "Alkistis Protopsalti",
+    "album": null,
+    "year": null,
+    "stationId": "kaleidoscope-fm",
+    "genre": "Global pop ecléctico",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-kaleidoscope-fm-4"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-circoloco-1",
+    "title": "Floral",
+    "artist": "Skream",
+    "album": null,
+    "year": null,
+    "stationId": "circoloco-records",
+    "genre": "House y techno underground",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-circoloco-1"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-circoloco-2",
+    "title": "Rhythm of the Night",
+    "artist": "Michael Bibi",
+    "album": null,
+    "year": null,
+    "stationId": "circoloco-records",
+    "genre": "House y techno underground",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-circoloco-3",
+    "title": "Let It Go",
+    "artist": "Mind Against",
+    "album": null,
+    "year": null,
+    "stationId": "circoloco-records",
+    "genre": "House y techno underground",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-1",
+    "title": "Fame Is a Gun",
+    "artist": "Addison Rae",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": ["yt-fame-is-a-gun"],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-2",
+    "title": "Break Free",
+    "artist": "Ariana Grande",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-2"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-3",
+    "title": "Lunch",
+    "artist": "Billie Eilish",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-3"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-4",
+    "title": "Prove It To You",
+    "artist": "Brittany Howard",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-4"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-5",
+    "title": "No Rain, No Flowers",
+    "artist": "The Black Keys",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-5"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-6",
+    "title": "Sexy Magic",
+    "artist": "CA7RIEL",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": ["yt-Sexy-Magic"],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-7",
+    "title": "Feels",
+    "artist": "Calvin Harris ft. Pharrell, Katy Perry & Big Sean",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": ["yt-feels"],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-8",
+    "title": "Hot To Go!",
+    "artist": "Chappell Roan",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": ["yt-hot-to-go"],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-9",
+    "title": "Oyster",
+    "artist": "Chloe Moriondo",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-9"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-10",
+    "title": "Love Sex Magic",
+    "artist": "Ciara and Justin Timberlake",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-10"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-11",
+    "title": "Adventure of a Lifetime",
+    "artist": "Coldplay",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-11"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-12",
+    "title": "Around the World",
+    "artist": "Daft Punk",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-12"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-13",
+    "title": "Persuasive",
+    "artist": "Doechii & SZA",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-13"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-14",
+    "title": "Hold On, We’re Going Home",
+    "artist": "Drake",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-14"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-15",
+    "title": "Houdini",
+    "artist": "Dua Lipa",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-15"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-16",
+    "title": "Pumped Up Kicks",
+    "artist": "Foster the People",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": ["yt-pumped-up-kicks"],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-17",
+    "title": "Lost",
+    "artist": "Frank Ocean",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": ["yt-lost"],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-18",
+    "title": "Fastlove, Pt. 1",
+    "artist": "George Michael",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-18"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-19",
+    "title": "Strict Machine",
+    "artist": "Goldfrapp",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-19"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-20",
+    "title": "Dare",
+    "artist": "Gorillaz",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-20"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-21",
+    "title": "Rich Girl",
+    "artist": "Gwen Stefani ft. Eve",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": ["yt-rich-girl"],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-22",
+    "title": "Move Your Body",
+    "artist": "Inner Expansions",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": ["yt-move-your-body"],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-23",
+    "title": "Rhythm of Love",
+    "artist": "Italove",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-23"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-24",
+    "title": "Crush",
+    "artist": "Jennifer Paige",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-24"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-25",
+    "title": "Earthquake",
+    "artist": "JISOO",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-25"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-26",
+    "title": "Mantra",
+    "artist": "Jeannie",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": ["yt-mantra"],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-27",
+    "title": "Wild Ones",
+    "artist": "Jessie Murph & Jelly Roll",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-27"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-28",
+    "title": "DVNO",
+    "artist": "Justice",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-28"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-29",
+    "title": "Friends",
+    "artist": "Justin Bieber ft. BloodPop",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-29"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-30",
+    "title": "Sweet Spot",
+    "artist": "Justin Bieber",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-30"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-31",
+    "title": "Gabriela",
+    "artist": "Katseye",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-31"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-32",
+    "title": "Tenderoni",
+    "artist": "Kele",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-32"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-33",
+    "title": "Motivation",
+    "artist": "Kelly Rowland ft. Lil Wayne",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-33"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-34",
+    "title": "Mr Cool",
+    "artist": "Kenya Grace",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-34"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-35",
+    "title": "Strangers",
+    "artist": "Kenya Grace",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-35"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-36",
+    "title": "Skrilla",
+    "artist": "Kodak Black",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-36"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-37",
+    "title": "Spinning Around",
+    "artist": "Kylie Minogue",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-37"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-38",
+    "title": "Bulletproof",
+    "artist": "La Roux",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-38"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-39",
+    "title": "Crazy for You",
+    "artist": "Lana Del Rey",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": ["yt-crazy-for-you"],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-40",
+    "title": "Sawadika",
+    "artist": "LISA",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": ["yt-sawadika"],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-41",
+    "title": "Green Light",
+    "artist": "Lorde",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-41"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-42",
+    "title": "Give Me All Your Luvin’",
+    "artist": "Madonna ft. Nicki Minaj & M.I.A",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-42"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-43",
+    "title": "Lean On",
+    "artist": "Major Lazer",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-43"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-44",
+    "title": "Someday",
+    "artist": "Mariah Carey",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-44"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-45",
+    "title": "Candy",
+    "artist": "Mandy Moore",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-45"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-46",
+    "title": "Forever More",
+    "artist": "Moloko",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-46"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-47",
+    "title": "Show Me Love",
+    "artist": "Natasha Bedingfield",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-48",
+    "title": "Good 4 U",
+    "artist": "Olivia Rodrigo",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-t-gs-flash-fm-48"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-49",
+    "title": "Illegal",
+    "artist": "PinkPantheress",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-50",
+    "title": "1901",
+    "artist": "Phoenix",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-51",
+    "title": "Blow My Mind",
+    "artist": "Robyn",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-52",
+    "title": "Show Me Love",
+    "artist": "Robyn",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-53",
+    "title": "All Again",
+    "artist": "Rose Gray",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-54",
+    "title": "People Watching",
+    "artist": "Sam Fender",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-55",
+    "title": "Disparate Youth",
+    "artist": "Santigold",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-56",
+    "title": "Impact",
+    "artist": "SG Lewis ft. Robyn & Channel Tres",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-57",
+    "title": "Cheap Thrills",
+    "artist": "Sia",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-58",
+    "title": "Sports Car",
+    "artist": "Tate McRae",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-59",
+    "title": "Inner Smile",
+    "artist": "Texas",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-60",
+    "title": "That’s Not My Name",
+    "artist": "The Ting Tings",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-61",
+    "title": "Heat",
+    "artist": "Tove Lo & SG Lewis",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-62",
+    "title": "Blood in Your eyes",
+    "artist": "Tove Lo",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-63",
+    "title": "Girls",
+    "artist": "TSHA ft. Rose Gray",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-64",
+    "title": "Wanderlust",
+    "artist": "The Weeknd",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-65",
+    "title": "Lazy",
+    "artist": "X-Press 2 ft. David Byrne",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-flash-fm-66",
+    "title": "Fast Emotion",
+    "artist": "Zara Larsson",
+    "album": null,
+    "year": null,
+    "stationId": "flash-fm",
+    "genre": "Pop",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-emotion-98-3-1",
+    "title": "Coming Around Again",
+    "artist": "Carly Simon",
+    "album": null,
+    "year": null,
+    "stationId": "emotion-98-3",
+    "genre": "Soft rock",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-emotion-98-3-2",
+    "title": "But I Think It’s a Dream",
+    "artist": "Captain & Tennille",
+    "album": null,
+    "year": null,
+    "stationId": "emotion-98-3",
+    "genre": "Soft rock",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-emotion-98-3-3",
+    "title": "Hard to Say I’m Sorry",
+    "artist": "Chicago",
+    "album": null,
+    "year": null,
+    "stationId": "emotion-98-3",
+    "genre": "Soft rock",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-emotion-98-3-4",
+    "title": "Fool (If You Think It’s Over)",
+    "artist": "Chris Rea",
+    "album": null,
+    "year": null,
+    "stationId": "emotion-98-3",
+    "genre": "Soft rock",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-emotion-98-3-5",
+    "title": "Devil Woman",
+    "artist": "Cliff Richard",
+    "album": null,
+    "year": null,
+    "stationId": "emotion-98-3",
+    "genre": "Soft rock",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-emotion-98-3-6",
+    "title": "When You’re In Love With A Beautiful Woman",
+    "artist": "Dr. Hook",
+    "album": null,
+    "year": null,
+    "stationId": "emotion-98-3",
+    "genre": "Soft rock",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-emotion-98-3-7",
+    "title": "I Guess That’s Why They Call It the Blues",
+    "artist": "Elton John",
+    "album": null,
+    "year": null,
+    "stationId": "emotion-98-3",
+    "genre": "Soft rock",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-emotion-98-3-8",
+    "title": "Father Figure",
+    "artist": "George Michael",
+    "album": null,
+    "year": null,
+    "stationId": "emotion-98-3",
+    "genre": "Soft rock",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-emotion-98-3-9",
+    "title": "Against All Odds",
+    "artist": "Phil Collins",
+    "album": null,
+    "year": null,
+    "stationId": "emotion-98-3",
+    "genre": "Soft rock",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-emotion-98-3-10",
+    "title": "Overnite",
+    "artist": "Scritti Politti",
+    "album": null,
+    "year": null,
+    "stationId": "emotion-98-3",
+    "genre": "Soft rock",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-emotion-98-3-11",
+    "title": "Stop Draggin’ My Heart Around",
+    "artist": "Stevie Nicks ft. Tom Petty",
+    "album": null,
+    "year": null,
+    "stationId": "emotion-98-3",
+    "genre": "Soft rock",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vice-city-fm-1",
+    "title": "Kiss and Tell",
+    "artist": "Bryan Ferry",
+    "album": null,
+    "year": null,
+    "stationId": "vice-city-fm",
+    "genre": "Pop de los 80",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vice-city-fm-2",
+    "title": "Miss Me Blind",
+    "artist": "Culture Club",
+    "album": null,
+    "year": null,
+    "stationId": "vice-city-fm",
+    "genre": "Pop de los 80",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vice-city-fm-3",
+    "title": "Name and Number",
+    "artist": "Curiosity Killed the Cat",
+    "album": null,
+    "year": null,
+    "stationId": "vice-city-fm",
+    "genre": "Pop de los 80",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vice-city-fm-4",
+    "title": "Lips Like Sugar",
+    "artist": "Echo & The Bunnymen",
+    "album": null,
+    "year": null,
+    "stationId": "vice-city-fm",
+    "genre": "Pop de los 80",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vice-city-fm-5",
+    "title": "A Good Heart",
+    "artist": "Feargal Sharkey",
+    "album": null,
+    "year": null,
+    "stationId": "vice-city-fm",
+    "genre": "Pop de los 80",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vice-city-fm-6",
+    "title": "What’s on Your Mind",
+    "artist": "Information Society",
+    "album": null,
+    "year": null,
+    "stationId": "vice-city-fm",
+    "genre": "Pop de los 80",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vice-city-fm-7",
+    "title": "Who Found Who",
+    "artist": "Jellybean ft. Elisa Fiorillo",
+    "album": null,
+    "year": null,
+    "stationId": "vice-city-fm",
+    "genre": "Pop de los 80",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vice-city-fm-8",
+    "title": "We Don’t Have To Take Our Clothes Off",
+    "artist": "Jermaine Stewart",
+    "album": null,
+    "year": null,
+    "stationId": "vice-city-fm",
+    "genre": "Pop de los 80",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vice-city-fm-9",
+    "title": "Wild Heart",
+    "artist": "Stevie Nicks",
+    "album": null,
+    "year": null,
+    "stationId": "vice-city-fm",
+    "genre": "Pop de los 80",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-stockyard-fm-1",
+    "title": "Paradise",
+    "artist": "ANOTR",
+    "album": null,
+    "year": null,
+    "stationId": "stockyard-fm",
+    "genre": "Indie y dance",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-stockyard-fm-2",
+    "title": "No Stress",
+    "artist": "CMD/CTRL",
+    "album": null,
+    "year": null,
+    "stationId": "stockyard-fm",
+    "genre": "Indie y dance",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-stockyard-fm-3",
+    "title": "Nightmare",
+    "artist": "HEALTH",
+    "album": null,
+    "year": null,
+    "stationId": "stockyard-fm",
+    "genre": "Indie y dance",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-stockyard-fm-4",
+    "title": "You Move Me",
+    "artist": "Neil Frances",
+    "album": null,
+    "year": null,
+    "stationId": "stockyard-fm",
+    "genre": "Indie y dance",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-stockyard-fm-5",
+    "title": "Abu Simbel",
+    "artist": "Rampa & WhoMadeWho",
+    "album": null,
+    "year": null,
+    "stationId": "stockyard-fm",
+    "genre": "Indie y dance",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-stockyard-fm-6",
+    "title": "Million Dollar Baby",
+    "artist": "Tommy Richman",
+    "album": null,
+    "year": null,
+    "stationId": "stockyard-fm",
+    "genre": "Indie y dance",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-dirty-south-classics-1",
+    "title": "Still Ballin’",
+    "artist": "2Pac ft. Trick Daddy",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-dirty-south-classics-2",
+    "title": "Pop Bottles",
+    "artist": "Birdman ft. Lil Wayne",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-dirty-south-classics-3",
+    "title": "Bitch I’m Me",
+    "artist": "Brisco",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-dirty-south-classics-4",
+    "title": "Holidae Inn",
+    "artist": "Chingy ft. Ludacris & Snoop Dogg",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-dirty-south-classics-5",
+    "title": "White Tee",
+    "artist": "Dem Franchize Boyz",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-dirty-south-classics-6",
+    "title": "Where Dem Dollars At?",
+    "artist": "Gangsta Boo ft. DJ Paul & Juicy J",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-dirty-south-classics-7",
+    "title": "Freaky Gurl",
+    "artist": "Gucci Mane",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-dirty-south-classics-8",
+    "title": "Slow Motion",
+    "artist": "Juvenile ft. Soulja Slim",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-dirty-south-classics-9",
+    "title": "What U Gon’ Do",
+    "artist": "Lil Jon ft. Lil Scrappy",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-dirty-south-classics-10",
+    "title": "A Milli",
+    "artist": "Lil Wayne",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-dirty-south-classics-11",
+    "title": "Back Then",
+    "artist": "Mike Jones",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-dirty-south-classics-12",
+    "title": "Players Ball",
+    "artist": "Outkast",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-dirty-south-classics-13",
+    "title": "Freek-A-Leek",
+    "artist": "Petey Pablo",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-dirty-south-classics-14",
+    "title": "Push It",
+    "artist": "Rick Ross",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-dirty-south-classics-15",
+    "title": "Dew Know",
+    "artist": "Shawty Lo",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-dirty-south-classics-16",
+    "title": "Hard Out Here for a Pimp",
+    "artist": "Three 6 Mafia",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-dirty-south-classics-17",
+    "title": "Side 2 Side",
+    "artist": "Three 6 Mafia",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-dirty-south-classics-18",
+    "title": "Rubber Band Man",
+    "artist": "T.I",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-dirty-south-classics-19",
+    "title": "I’m a Thug",
+    "artist": "Trick Daddy",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-dirty-south-classics-20",
+    "title": "Da Baddest Bitch",
+    "artist": "Trina",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-dirty-south-classics-21",
+    "title": "Shorty Wanna Ride",
+    "artist": "Young Buck",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-dirty-south-classics-22",
+    "title": "It’s Goin’ Down",
+    "artist": "Yung Joc",
+    "album": null,
+    "year": null,
+    "stationId": "dirty-south-classics",
+    "genre": "Rap sureño clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-1",
+    "title": "Cookin",
+    "artist": "21 Savage",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-2",
+    "title": "Soak City",
+    "artist": "310babii, Blueface & Tyga",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-3",
+    "title": "Mr Pot Scraper",
+    "artist": "Bossman Dlow",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-4",
+    "title": "Go Go Go",
+    "artist": "BunnaB",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-5",
+    "title": "Don’t Chart",
+    "artist": "Cardi B",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-6",
+    "title": "Rock N Roll",
+    "artist": "Central Cee",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-7",
+    "title": "Fla Flow",
+    "artist": "Denzel Curry",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-8",
+    "title": "Bills Paid",
+    "artist": "DJ Khaled ft. Latto & City Girls",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-9",
+    "title": "Nokia",
+    "artist": "Drake",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-10",
+    "title": "Wassup Gway",
+    "artist": "Famous Sally & YB",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-11",
+    "title": "Xanny Family",
+    "artist": "Future",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-12",
+    "title": "Whatchu Kno About Me",
+    "artist": "GloRilla ft. Sexyy Red",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-13",
+    "title": "Count Up",
+    "artist": "Gunna",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-14",
+    "title": "Let’s Rock",
+    "artist": "Kodak Black & Don Toliver",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-15",
+    "title": "Roll in Peace",
+    "artist": "Kodak Black ft. XXXTentacion",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-16",
+    "title": "Go Shorty",
+    "artist": "Latto ft. Flo Milli",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-17",
+    "title": "Type Shit",
+    "artist": "Metro Boomin, Future, Travis Scott, Playboi Cari",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-18",
+    "title": "Bad and Boujee",
+    "artist": "Migos ft. Lil Uzi Vert",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-19",
+    "title": "One of Them Ones",
+    "artist": "Mustard, Quavo & Rob49",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-20",
+    "title": "Gass",
+    "artist": "Nemzzz ft. Travis Scott",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-21",
+    "title": "I Just Came To Pop It",
+    "artist": "Offset",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-22",
+    "title": "Ahh Yea",
+    "artist": "Playboi Carti",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-23",
+    "title": "Got Dat",
+    "artist": "Pooh Shiesty",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-24",
+    "title": "Help Me",
+    "artist": "Real Boston Richey",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-25",
+    "title": "Cashout",
+    "artist": "SoFaygo",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-26",
+    "title": "IKYFL",
+    "artist": "Tee Grizzley",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-27",
+    "title": "Don Da Da",
+    "artist": "Young Nudy",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-28",
+    "title": "Digits",
+    "artist": "Young Thug",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-29",
+    "title": "That’s It",
+    "artist": "Yung Lean ft. Future & Metro Boomin",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-vcrr-30",
+    "title": "Blow a Cheque",
+    "artist": "Zoey Dollaz",
+    "album": null,
+    "year": null,
+    "stationId": "vcrr",
+    "genre": "Rap moderno",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-honey-fm-1",
+    "title": "Dance With Me",
+    "artist": "112",
+    "album": null,
+    "year": null,
+    "stationId": "honey-fm",
+    "genre": "R&B y soul de los 90",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-honey-fm-2",
+    "title": "Locked Up",
+    "artist": "Akon ft. Styles P",
+    "album": null,
+    "year": null,
+    "stationId": "honey-fm",
+    "genre": "R&B y soul de los 90",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-honey-fm-3",
+    "title": "Cyclone",
+    "artist": "Baby Bash ft. T-Pain",
+    "album": null,
+    "year": null,
+    "stationId": "honey-fm",
+    "genre": "R&B y soul de los 90",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-honey-fm-4",
+    "title": "I Adore Mi Amor",
+    "artist": "Color Me Badd",
+    "album": null,
+    "year": null,
+    "stationId": "honey-fm",
+    "genre": "R&B y soul de los 90",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-honey-fm-5",
+    "title": "Lady",
+    "artist": "D’Angelo",
+    "album": null,
+    "year": null,
+    "stationId": "honey-fm",
+    "genre": "R&B y soul de los 90",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-honey-fm-6",
+    "title": "Tell Me",
+    "artist": "Groove Theory",
+    "album": null,
+    "year": null,
+    "stationId": "honey-fm",
+    "genre": "R&B y soul de los 90",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-honey-fm-7",
+    "title": "Where the Party At",
+    "artist": "Jagged Edge",
+    "album": null,
+    "year": null,
+    "stationId": "honey-fm",
+    "genre": "R&B y soul de los 90",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-honey-fm-8",
+    "title": "Looking for a New Love",
+    "artist": "Jody Watley",
+    "album": null,
+    "year": null,
+    "stationId": "honey-fm",
+    "genre": "R&B y soul de los 90",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-honey-fm-9",
+    "title": "Get It On Tonite",
+    "artist": "Montell Jordan",
+    "album": null,
+    "year": null,
+    "stationId": "honey-fm",
+    "genre": "R&B y soul de los 90",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-honey-fm-10",
+    "title": "Optimistic",
+    "artist": "Sounds of Blackness",
+    "album": null,
+    "year": null,
+    "stationId": "honey-fm",
+    "genre": "R&B y soul de los 90",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-honey-fm-11",
+    "title": "Buy U a Drank",
+    "artist": "T-Pain",
+    "album": null,
+    "year": null,
+    "stationId": "honey-fm",
+    "genre": "R&B y soul de los 90",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-honey-fm-12",
+    "title": "Feels Good",
+    "artist": "Tony! Toni! Toné",
+    "album": null,
+    "year": null,
+    "stationId": "honey-fm",
+    "genre": "R&B y soul de los 90",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-honey-fm-13",
+    "title": "Hey Mr. DJ",
+    "artist": "Zhané",
+    "album": null,
+    "year": null,
+    "stationId": "honey-fm",
+    "genre": "R&B y soul de los 90",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-cocoteo-fm-1",
+    "title": "Girl",
+    "artist": "Myke Towers",
+    "album": null,
+    "year": null,
+    "stationId": "cocoteo-fm",
+    "genre": "Latin moderno",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-girl"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-cocoteo-fm-2",
+    "title": "Ni Le Cabe",
+    "artist": "Young Miko",
+    "album": null,
+    "year": null,
+    "stationId": "cocoteo-fm",
+    "genre": "Latin moderno",
+    "status": "press-reported",
+    "sourceIds": [
+      "yt-ni-le-cabe"
+    ],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-cocoteo-fm-3",
+    "title": "Amanece",
+    "artist": "Anuel AA ft. Gaze",
+    "album": null,
+    "year": null,
+    "stationId": "cocoteo-fm",
+    "genre": "Latin moderno",
+    "status": "press-reported",
+    "sourceIds": ["yt-amanece"],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-cocoteo-fm-4",
+    "title": "Otra Noche en Miami",
+    "artist": "Bad Bunny",
+    "album": null,
+    "year": null,
+    "stationId": "cocoteo-fm",
+    "genre": "Latin moderno",
+    "status": "press-reported",
+    "sourceIds": ["yt-otra-noche-mas-en-miami"],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-cocoteo-fm-5",
+    "title": "Se Me Nota (Agarrame)",
+    "artist": "Chimbala & Omega",
+    "album": null,
+    "year": null,
+    "stationId": "cocoteo-fm",
+    "genre": "Latin moderno",
+    "status": "press-reported",
+    "sourceIds": ["yt-se-me-nota"],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-cocoteo-fm-6",
+    "title": "Intocable",
+    "artist": "Don Omar",
+    "album": null,
+    "year": null,
+    "stationId": "cocoteo-fm",
+    "genre": "Latin moderno",
+    "status": "press-reported",
+    "sourceIds": ["yt-yo-no-se-manana"],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-cocoteo-fm-7",
+    "title": "Suzuki",
+    "artist": "Fuerza Regida",
+    "album": null,
+    "year": null,
+    "stationId": "cocoteo-fm",
+    "genre": "Latin moderno",
+    "status": "press-reported",
+    "sourceIds": ["yt-suzuki"],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-cocoteo-fm-8",
+    "title": "Macacoa 2000",
+    "artist": "Rauw Alejandro",
+    "album": null,
+    "year": null,
+    "stationId": "cocoteo-fm",
+    "genre": "Latin moderno",
+    "status": "press-reported",
+    "sourceIds": ["yt-macacao"],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-cocoteo-fm-9",
+    "title": "Mojabi Ghost",
+    "artist": "Tainy & Bad Bunny",
+    "album": null,
+    "year": null,
+    "stationId": "cocoteo-fm",
+    "genre": "Latin moderno",
+    "status": "press-reported",
+    "sourceIds": ["yt-mojabi-ghost"],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-cocoteo-fm-10",
+    "title": "Suave Mix (Blass Remix)",
+    "artist": "Calle 13",
+    "album": null,
+    "year": null,
+    "stationId": "cocoteo-fm",
+    "genre": "Latin moderno",
+    "status": "press-reported",
+    "sourceIds": ["yt-suave"],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-cocoteo-fm-11",
+    "title": "Marisposas En El Estomago",
+    "artist": "Rainao & El Laberinto Del Coco",
+    "album": null,
+    "year": null,
+    "stationId": "cocoteo-fm",
+    "genre": "Latin moderno",
+    "status": "press-reported",
+    "sourceIds": ["yt-mariposas-en-el-estomago"],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-radio-la-ola-1",
+    "title": "Descarga Cubana",
+    "artist": "Cachao",
+    "album": null,
+    "year": null,
+    "stationId": "radio-la-ola",
+    "genre": "Latin clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-radio-la-ola-2",
+    "title": "La Hija de Lola",
+    "artist": "Charlie Palmieri",
+    "album": null,
+    "year": null,
+    "stationId": "radio-la-ola",
+    "genre": "Latin clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-radio-la-ola-3",
+    "title": "No Hay Cama Pa’ Tanta Gente",
+    "artist": "El Gran Combo de Puerto Rico",
+    "album": null,
+    "year": null,
+    "stationId": "radio-la-ola",
+    "genre": "Latin clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-radio-la-ola-4",
+    "title": "La Cartera",
+    "artist": "Orquesta Harlow",
+    "album": null,
+    "year": null,
+    "stationId": "radio-la-ola",
+    "genre": "Latin clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-radio-la-ola-5",
+    "title": "Caballo Viejo",
+    "artist": "Roberto Torres",
+    "album": null,
+    "year": null,
+    "stationId": "radio-la-ola",
+    "genre": "Latin clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-radio-la-ola-6",
+    "title": "Ligia Elena",
+    "artist": "Willie Colon & Ruben Blades",
+    "album": null,
+    "year": null,
+    "stationId": "radio-la-ola",
+    "genre": "Latin clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-radio-la-ola-7",
+    "title": "Soy Guajiro",
+    "artist": "Willy Chirino",
+    "album": null,
+    "year": null,
+    "stationId": "radio-la-ola",
+    "genre": "Latin clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-radio-on-u-1",
+    "title": "I’m So Sorry",
+    "artist": "Carroll Thompson",
+    "album": null,
+    "year": null,
+    "stationId": "radio-on-u",
+    "genre": "Reggae y dub",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-radio-on-u-2",
+    "title": "Caught You in a Lie",
+    "artist": "Louisa Mark",
+    "album": null,
+    "year": null,
+    "stationId": "radio-on-u",
+    "genre": "Reggae y dub",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-v-rock-1",
+    "title": "Take Me Home Tonight",
+    "artist": "Eddie Money",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-v-rock-2",
+    "title": "Cocaine",
+    "artist": "Eric Clapton",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-v-rock-3",
+    "title": "Jump Into the Fire",
+    "artist": "Harry Nilsson",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-v-rock-4",
+    "title": "I Want A New Drug",
+    "artist": "Huey Lewis & The News",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-v-rock-5",
+    "title": "Jack and Diane",
+    "artist": "John Mellencamp",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-v-rock-6",
+    "title": "Naughty Naughty",
+    "artist": "John Parr",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-v-rock-7",
+    "title": "Sure Know Something",
+    "artist": "KISS",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-v-rock-8",
+    "title": "Go Insane",
+    "artist": "Lindsey Buckingham",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-v-rock-9",
+    "title": "Lovin’ Every Minute of It",
+    "artist": "Loverboy",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-v-rock-10",
+    "title": "Dr. Feelgood",
+    "artist": "Motley Crue",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-v-rock-11",
+    "title": "Let My Love Open the Door",
+    "artist": "Pete Townshend",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-v-rock-12",
+    "title": "Nothin’ But A Good Time",
+    "artist": "Poison",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-v-rock-13",
+    "title": "Take It on the Run",
+    "artist": "REO Speedwagon",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-v-rock-14",
+    "title": "Emotional Rescue",
+    "artist": "The Rolling Stones",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-v-rock-15",
+    "title": "For What It’s Worth",
+    "artist": "Stevie Nicks",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-v-rock-16",
+    "title": "Rooms on Fire",
+    "artist": "Stevie Nicks",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-v-rock-17",
+    "title": "Georgy Porgy",
+    "artist": "Toto",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-v-rock-18",
+    "title": "Bargain",
+    "artist": "The Who",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-v-rock-19",
+    "title": "Rhythm of Love",
+    "artist": "Yes",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-v-rock-20",
+    "title": "Got Me Under Pressure",
+    "artist": "ZZ Top",
+    "album": null,
+    "year": null,
+    "stationId": "v-rock",
+    "genre": "Rock clásico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-the-chamber-106-6-1",
+    "title": "I Am The Law",
+    "artist": "Anthrax",
+    "album": null,
+    "year": null,
+    "stationId": "the-chamber-106-6",
+    "genre": "Metal",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-the-chamber-106-6-2",
+    "title": "Freewheel Burning",
+    "artist": "Judas Priest",
+    "album": null,
+    "year": null,
+    "stationId": "the-chamber-106-6",
+    "genre": "Metal",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-the-chamber-106-6-3",
+    "title": "In the End",
+    "artist": "Linkin Park",
+    "album": null,
+    "year": null,
+    "stationId": "the-chamber-106-6",
+    "genre": "Metal",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-the-chamber-106-6-4",
+    "title": "Blood and Thunder",
+    "artist": "Mastodon",
+    "album": null,
+    "year": null,
+    "stationId": "the-chamber-106-6",
+    "genre": "Metal",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-the-chamber-106-6-5",
+    "title": "Symphony of Destruction",
+    "artist": "Megadeth",
+    "album": null,
+    "year": null,
+    "stationId": "the-chamber-106-6",
+    "genre": "Metal",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-the-chamber-106-6-6",
+    "title": "Battery",
+    "artist": "Metallica",
+    "album": null,
+    "year": null,
+    "stationId": "the-chamber-106-6",
+    "genre": "Metal",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-the-chamber-106-6-7",
+    "title": "Master of Puppets",
+    "artist": "Metallica",
+    "album": null,
+    "year": null,
+    "stationId": "the-chamber-106-6",
+    "genre": "Metal",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-the-chamber-106-6-8",
+    "title": "Seek & Destroy",
+    "artist": "Metallica",
+    "album": null,
+    "year": null,
+    "stationId": "the-chamber-106-6",
+    "genre": "Metal",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-the-chamber-106-6-9",
+    "title": "Rotten to the Core",
+    "artist": "Overkill",
+    "album": null,
+    "year": null,
+    "stationId": "the-chamber-106-6",
+    "genre": "Metal",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-the-chamber-106-6-10",
+    "title": "Territory",
+    "artist": "Sepultura",
+    "album": null,
+    "year": null,
+    "stationId": "the-chamber-106-6",
+    "genre": "Metal",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-the-chamber-106-6-11",
+    "title": "Payback",
+    "artist": "Slayer",
+    "album": null,
+    "year": null,
+    "stationId": "the-chamber-106-6",
+    "genre": "Metal",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-the-chamber-106-6-12",
+    "title": "Sugar",
+    "artist": "System of a Down",
+    "album": null,
+    "year": null,
+    "stationId": "the-chamber-106-6",
+    "genre": "Metal",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-the-chamber-106-6-13",
+    "title": "Sober",
+    "artist": "TOOL",
+    "album": null,
+    "year": null,
+    "stationId": "the-chamber-106-6",
+    "genre": "Metal",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-back-country-radio-1",
+    "title": "The Fireman",
+    "artist": "George Strait",
+    "album": null,
+    "year": null,
+    "stationId": "back-country-radio",
+    "genre": "Country renegado",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-back-country-radio-2",
+    "title": "Rhinestone Cowboy",
+    "artist": "Glen Campbell",
+    "album": null,
+    "year": null,
+    "stationId": "back-country-radio",
+    "genre": "Country renegado",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-back-country-radio-3",
+    "title": "Walk Softly On This Heart of Mine",
+    "artist": "The Kentucky Headhunters",
+    "album": null,
+    "year": null,
+    "stationId": "back-country-radio",
+    "genre": "Country renegado",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-back-country-radio-4",
+    "title": "Louisiana Saturday Night",
+    "artist": "Mel McDaniel",
+    "album": null,
+    "year": null,
+    "stationId": "back-country-radio",
+    "genre": "Country renegado",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-back-country-radio-5",
+    "title": "Last Thing You Need",
+    "artist": "Morgan Wallen",
+    "album": null,
+    "year": null,
+    "stationId": "back-country-radio",
+    "genre": "Country renegado",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-back-country-radio-6",
+    "title": "Polk Salad Annie",
+    "artist": "Tony Joe White",
+    "album": null,
+    "year": null,
+    "stationId": "back-country-radio",
+    "genre": "Country renegado",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-gloriana-blues-radio-1",
+    "title": "Trouble in Mind",
+    "artist": "Ella Fitzgerald",
+    "album": null,
+    "year": null,
+    "stationId": "gloriana-blues-radio",
+    "genre": "Blues",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-gloriana-blues-radio-2",
+    "title": "That’s All Right",
+    "artist": "Jimmie Rogers",
+    "album": null,
+    "year": null,
+    "stationId": "gloriana-blues-radio",
+    "genre": "Blues",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-gloriana-blues-radio-3",
+    "title": "Blue Guitar",
+    "artist": "Earl Hooker",
+    "album": null,
+    "year": null,
+    "stationId": "gloriana-blues-radio",
+    "genre": "Blues",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-gloriana-blues-radio-4",
+    "title": "Yonder Wall",
+    "artist": "Freddie King",
+    "album": null,
+    "year": null,
+    "stationId": "gloriana-blues-radio",
+    "genre": "Blues",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-leonida-jazz-radio-1",
+    "title": "Thank You Deeply",
+    "artist": "Mystery Time",
+    "album": null,
+    "year": null,
+    "stationId": "leonida-jazz-radio",
+    "genre": "Jazz fusión",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-leonida-jazz-radio-2",
+    "title": "Overtown Lights",
+    "artist": "Stanley Clarke ft. Yussef Dayes and Robert Glasper",
+    "album": null,
+    "year": null,
+    "stationId": "leonida-jazz-radio",
+    "genre": "Jazz fusión",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "violet"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-symphony-fm-1",
+    "title": "Messiah",
+    "artist": "Handel",
+    "album": null,
+    "year": null,
+    "stationId": "symphony-fm",
+    "genre": "Clásica",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-symphony-fm-2",
+    "title": "Les Préludes",
+    "artist": "Liszt",
+    "album": null,
+    "year": null,
+    "stationId": "symphony-fm",
+    "genre": "Clásica",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-symphony-fm-3",
+    "title": "Concerto for Orchestra",
+    "artist": "Lutoslawski",
+    "album": null,
+    "year": null,
+    "stationId": "symphony-fm",
+    "genre": "Clásica",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-symphony-fm-4",
+    "title": "Piano Concerto No. 2",
+    "artist": "Prokofiev",
+    "album": null,
+    "year": null,
+    "stationId": "symphony-fm",
+    "genre": "Clásica",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-symphony-fm-5",
+    "title": "Symphony No. 5 III. Allegro Molto",
+    "artist": "Jean Sibelius",
+    "album": null,
+    "year": null,
+    "stationId": "symphony-fm",
+    "genre": "Clásica",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-symphony-fm-6",
+    "title": "Symphony No. 6 Allegro Energico",
+    "artist": "Mahler",
+    "album": null,
+    "year": null,
+    "stationId": "symphony-fm",
+    "genre": "Clásica",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "cyan"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-worldwide-fm-1",
+    "title": "Skhaftin Saka Fonque",
+    "artist": "Atmos Blaq",
+    "album": null,
+    "year": null,
+    "stationId": "worldwide-fm",
+    "genre": "World music y jazz",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-worldwide-fm-2",
+    "title": "Yoppa Ratta",
+    "artist": "Dongurizu",
+    "album": null,
+    "year": null,
+    "stationId": "worldwide-fm",
+    "genre": "World music y jazz",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-worldwide-fm-3",
+    "title": "Slope VIP",
+    "artist": "Facta ft. Warrior Queen and Killa P",
+    "album": null,
+    "year": null,
+    "stationId": "worldwide-fm",
+    "genre": "World music y jazz",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-worldwide-fm-4",
+    "title": "Brasil de Capoeira",
+    "artist": "Fejao ft. Samtheman",
+    "album": null,
+    "year": null,
+    "stationId": "worldwide-fm",
+    "genre": "World music y jazz",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-worldwide-fm-5",
+    "title": "Don’t Send Me Away",
+    "artist": "Garfield Fleming",
+    "album": null,
+    "year": null,
+    "stationId": "worldwide-fm",
+    "genre": "World music y jazz",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-worldwide-fm-6",
+    "title": "Do It For You",
+    "artist": "Moses Ideka & Phil",
+    "album": null,
+    "year": null,
+    "stationId": "worldwide-fm",
+    "genre": "World music y jazz",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "orange"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-afrobank-fm-1",
+    "title": "No Discrimination",
+    "artist": "Tony Allen & The Afro Messengers",
+    "album": null,
+    "year": null,
+    "stationId": "afrobank-fm",
+    "genre": "Música africana",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-afrobank-fm-2",
+    "title": "Assanssan",
+    "artist": "Alafia",
+    "album": null,
+    "year": null,
+    "stationId": "afrobank-fm",
+    "genre": "Música africana",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-afrobank-fm-3",
+    "title": "Wadibusa",
+    "artist": "Uncle Waffles",
+    "album": null,
+    "year": null,
+    "stationId": "afrobank-fm",
+    "genre": "Música africana",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-afrobank-fm-4",
+    "title": "Run No More",
+    "artist": "Hugh Masekela",
+    "album": null,
+    "year": null,
+    "stationId": "afrobank-fm",
+    "genre": "Música africana",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-afrobank-fm-5",
+    "title": "Goro City",
+    "artist": "Manu Dibango",
+    "album": null,
+    "year": null,
+    "stationId": "afrobank-fm",
+    "genre": "Música africana",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "coral"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-kaleidoscope-fm-1",
+    "title": "Rokkibaby",
+    "artist": "Rolf Bergstrom",
+    "album": null,
+    "year": null,
+    "stationId": "kaleidoscope-fm",
+    "genre": "Global pop ecléctico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-kaleidoscope-fm-2",
+    "title": "Hai Capito O No?",
+    "artist": "Ron",
+    "album": null,
+    "year": null,
+    "stationId": "kaleidoscope-fm",
+    "genre": "Global pop ecléctico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  },
+  {
+    "id": "t-gs-kaleidoscope-fm-3",
+    "title": "Stupid Girl",
+    "artist": "Trevor M. Simpson & Hi Lo Singers",
+    "album": null,
+    "year": null,
+    "stationId": "kaleidoscope-fm",
+    "genre": "Global pop ecléctico",
+    "status": "press-reported",
+    "sourceIds": [],
+    "artwork": {
+      "kind": "gradient",
+      "token": "pink"
+    },
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
+    "confirmedAt": "2026-11-19"
+  }
+]

@@ -1,0 +1,832 @@
+[
+  {
+    "id": "cocoteo-fm",
+    "name": "Cocoteo FM",
+    "frequency": null,
+    "genre": "Latin moderno",
+    "genres": [
+      "Latin",
+      "Bachata",
+      "Merengue",
+      "Dembow",
+      "Reggaeton"
+    ],
+    "description": "Leonida's home for the best of modern Latin music. De bachata y merengue a dembow y reggaeton: el party que nunca se apaga.",
+    "hosts": [
+      {
+        "name": "El Martillo",
+        "character": "Bad Bunny"
+      },
+      {
+        "name": "La Gata",
+        "character": "RaiNao"
+      }
+    ],
+    "status": "official",
+    "trackIds": [
+      "t-eoo",
+      "t-si-es-trucho-remix",
+      "t-canalla",
+      "t-gs-cocoteo-fm-1",
+      "yt-ni-le-cabe",
+      "t-gs-cocoteo-fm-3",
+      "t-gs-cocoteo-fm-4",
+      "t-gs-cocoteo-fm-5",
+      "t-gs-cocoteo-fm-6",
+      "t-gs-cocoteo-fm-7",
+      "t-gs-cocoteo-fm-8",
+      "t-gs-cocoteo-fm-9",
+      "t-gs-cocoteo-fm-10",
+      "t-gs-cocoteo-fm-11"
+    ],
+    "previewUrl": "https://www.rockstargames.com/VI/music",
+    "accent": "pink",
+    "glyph": "wave",
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations"
+  },
+  {
+    "id": "back-country-radio",
+    "name": "Back Country Radio",
+    "frequency": null,
+    "genre": "Country renegado",
+    "genres": [
+      "Country",
+      "Outlaw country"
+    ],
+    "description": "MW y Delta Dawne emiten country renegado para Grassrivers, Port Gellhorn y todo el pantano. Atento al reportero meteorológico Mud Dog Mike.",
+    "hosts": [
+      {
+        "name": "MW",
+        "character": "Morgan Wallen"
+      },
+      {
+        "name": "Delta Dawne",
+        "character": "Lana Del Rey"
+      },
+      {
+        "name": "Mud Dog Mike",
+        "character": "Jeremy Dufrene"
+      }
+    ],
+    "status": "official",
+    "trackIds": [
+      "t-david-allan-coe",
+      "t-loretta-lynn",
+      "t-hank-waylon",
+      "t-gs-back-country-radio-1",
+      "t-gs-back-country-radio-2",
+      "t-gs-back-country-radio-3",
+      "t-gs-back-country-radio-4",
+      "t-gs-back-country-radio-5",
+      "t-gs-back-country-radio-6"
+    ],
+    "previewUrl": "https://www.rockstargames.com/VI/music",
+    "accent": "orange",
+    "glyph": "sun",
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations"
+  },
+  {
+    "id": "afrobank-fm",
+    "name": "AfroBank FM",
+    "frequency": null,
+    "genre": "Música africana",
+    "genres": [
+      "Amapiano",
+      "Highlife",
+      "Afrobeats",
+      "3-step"
+    ],
+    "description": "Burna y Palmsy seleccionan lo mejor de la música africana: clásicos del siglo XX, gemas por descubrir y sonidos contemporáneos. Turn up the gbedu.",
+    "hosts": [
+      {
+        "name": "Burna",
+        "character": "Burna Boy"
+      },
+      {
+        "name": "Palmsy",
+        "character": "Palms Trax"
+      }
+    ],
+    "status": "official",
+    "trackIds": [
+      "t-asake-joha",
+      "t-pat-thomas-gye-wani",
+      "t-dj-lag-shaysana",
+      "t-gs-afrobank-fm-1",
+      "t-gs-afrobank-fm-2",
+      "t-gs-afrobank-fm-3",
+      "t-gs-afrobank-fm-4",
+      "t-gs-afrobank-fm-5"
+    ],
+    "previewUrl": "https://www.rockstargames.com/VI/music",
+    "accent": "coral",
+    "glyph": "pulse",
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations"
+  },
+  {
+    "id": "the-chamber-106-6",
+    "name": "The Chamber 106.6",
+    "frequency": "106.6",
+    "genre": "Metal",
+    "genres": [
+      "Metal",
+      "Heavy metal",
+      "Thrash"
+    ],
+    "description": "El metal definitivo llega a Leonida. DJ Kerry y DJ Tom canalizan las raíces metaleras del estado con clásicos desde los 80 en adelante.",
+    "hosts": [
+      {
+        "name": "DJ Kerry",
+        "character": "Kerry King"
+      },
+      {
+        "name": "DJ Tom",
+        "character": "Tom Araya"
+      }
+    ],
+    "status": "official",
+    "trackIds": [
+      "t-black-sabbath-i",
+      "t-pantera-im-broken",
+      "t-slayer-raining-blood",
+      "t-gs-the-chamber-106-6-1",
+      "t-gs-the-chamber-106-6-2",
+      "t-gs-the-chamber-106-6-3",
+      "t-gs-the-chamber-106-6-4",
+      "t-gs-the-chamber-106-6-5",
+      "t-gs-the-chamber-106-6-6",
+      "t-gs-the-chamber-106-6-7",
+      "t-gs-the-chamber-106-6-8",
+      "t-gs-the-chamber-106-6-9",
+      "t-gs-the-chamber-106-6-10",
+      "t-gs-the-chamber-106-6-11",
+      "t-gs-the-chamber-106-6-12",
+      "t-gs-the-chamber-106-6-13"
+    ],
+    "previewUrl": "https://www.rockstargames.com/VI/music/the-chamber",
+    "accent": "violet",
+    "glyph": "bolt",
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations"
+  },
+  {
+    "id": "flash-fm",
+    "name": "Flash FM",
+    "frequency": null,
+    "genre": "Pop",
+    "genres": [
+      "Pop",
+      "Dance",
+      "Electropop"
+    ],
+    "description": "La institución de Vice City vuelve con Robyn y Alex. El mejor pop y ritmos garantizados para bailar donde estés en el Goodtime State.",
+    "hosts": [
+      {
+        "name": "Robyn",
+        "character": "Robyn"
+      },
+      {
+        "name": "Alex",
+        "character": "Alex Consani"
+      }
+    ],
+    "status": "official",
+    "trackIds": [
+      "t-charli-good-ones",
+      "t-mgmt-electric-feel",
+      "t-zara-midnight-sun",
+      "t-gs-flash-fm-1",
+      "t-gs-flash-fm-2",
+      "t-gs-flash-fm-3",
+      "t-gs-flash-fm-4",
+      "t-gs-flash-fm-5",
+      "t-gs-flash-fm-6",
+      "t-gs-flash-fm-7",
+      "t-gs-flash-fm-8",
+      "t-gs-flash-fm-9",
+      "t-gs-flash-fm-10",
+      "t-gs-flash-fm-11",
+      "t-gs-flash-fm-12",
+      "t-gs-flash-fm-13",
+      "t-gs-flash-fm-14",
+      "t-gs-flash-fm-15",
+      "t-gs-flash-fm-16",
+      "t-gs-flash-fm-17",
+      "t-gs-flash-fm-18",
+      "t-gs-flash-fm-19",
+      "t-gs-flash-fm-20",
+      "t-gs-flash-fm-21",
+      "t-gs-flash-fm-22",
+      "t-gs-flash-fm-23",
+      "t-gs-flash-fm-24",
+      "t-gs-flash-fm-25",
+      "t-gs-flash-fm-26",
+      "t-gs-flash-fm-27",
+      "t-gs-flash-fm-28",
+      "t-gs-flash-fm-29",
+      "t-gs-flash-fm-30",
+      "t-gs-flash-fm-31",
+      "t-gs-flash-fm-32",
+      "t-gs-flash-fm-33",
+      "t-gs-flash-fm-34",
+      "t-gs-flash-fm-35",
+      "t-gs-flash-fm-36",
+      "t-gs-flash-fm-37",
+      "t-gs-flash-fm-38",
+      "t-gs-flash-fm-39",
+      "t-gs-flash-fm-40",
+      "t-gs-flash-fm-41",
+      "t-gs-flash-fm-42",
+      "t-gs-flash-fm-43",
+      "t-gs-flash-fm-44",
+      "t-gs-flash-fm-45",
+      "t-gs-flash-fm-46",
+      "t-gs-flash-fm-47",
+      "t-gs-flash-fm-48",
+      "t-gs-flash-fm-49",
+      "t-gs-flash-fm-50",
+      "t-gs-flash-fm-51",
+      "t-gs-flash-fm-52",
+      "t-gs-flash-fm-53",
+      "t-gs-flash-fm-54",
+      "t-gs-flash-fm-55",
+      "t-gs-flash-fm-56",
+      "t-gs-flash-fm-57",
+      "t-gs-flash-fm-58",
+      "t-gs-flash-fm-59",
+      "t-gs-flash-fm-60",
+      "t-gs-flash-fm-61",
+      "t-gs-flash-fm-62",
+      "t-gs-flash-fm-63",
+      "t-gs-flash-fm-64",
+      "t-gs-flash-fm-65",
+      "t-gs-flash-fm-66"
+    ],
+    "previewUrl": "https://www.rockstargames.com/VI/music/flash-fm",
+    "accent": "cyan",
+    "glyph": "disc",
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations"
+  },
+  {
+    "id": "dirty-south-classics",
+    "name": "Dirty South Classics",
+    "frequency": null,
+    "genre": "Rap sureño clásico",
+    "genres": [
+      "Hip-hop",
+      "Southern rap",
+      "Crunk"
+    ],
+    "description": "Un poco de hospitalidad sureña de la mano de Trick y Trina. Rap y hip-hop clásicos de la playa a la manzana: nadie representa Leonida y el Sur como ellos.",
+    "hosts": [
+      {
+        "name": "Trick",
+        "character": "Trick Daddy"
+      },
+      {
+        "name": "Trina",
+        "character": "Trina"
+      }
+    ],
+    "status": "official",
+    "trackIds": [
+      "t-david-banner-like-a-pimp",
+      "t-jt-money-who-dat",
+      "t-dj-khaled-born-n-raised",
+      "t-gs-dirty-south-classics-1",
+      "t-gs-dirty-south-classics-2",
+      "t-gs-dirty-south-classics-3",
+      "t-gs-dirty-south-classics-4",
+      "t-gs-dirty-south-classics-5",
+      "t-gs-dirty-south-classics-6",
+      "t-gs-dirty-south-classics-7",
+      "t-gs-dirty-south-classics-8",
+      "t-gs-dirty-south-classics-9",
+      "t-gs-dirty-south-classics-10",
+      "t-gs-dirty-south-classics-11",
+      "t-gs-dirty-south-classics-12",
+      "t-gs-dirty-south-classics-13",
+      "t-gs-dirty-south-classics-14",
+      "t-gs-dirty-south-classics-15",
+      "t-gs-dirty-south-classics-16",
+      "t-gs-dirty-south-classics-17",
+      "t-gs-dirty-south-classics-18",
+      "t-gs-dirty-south-classics-19",
+      "t-gs-dirty-south-classics-20",
+      "t-gs-dirty-south-classics-21",
+      "t-gs-dirty-south-classics-22"
+    ],
+    "previewUrl": "https://www.rockstargames.com/VI/music/dirty-south-classics",
+    "accent": "coral",
+    "glyph": "star",
+    "confirmedBy": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations"
+  },
+  {
+    "id": "circoloco-records",
+    "name": "CircoLoco Records",
+    "frequency": null,
+    "genre": "House y techno underground",
+    "genres": [
+      "House",
+      "Techno",
+      "Club"
+    ],
+    "description": "House y techno underground con DJ Seth y DJ Antonio. Estás en la lista.",
+    "hosts": [
+      {
+        "name": "DJ Seth"
+      },
+      {
+        "name": "DJ Antonio"
+      }
+    ],
+    "status": "official",
+    "trackIds": [
+      "t-circoloco-1",
+      "t-circoloco-2",
+      "t-circoloco-3"
+    ],
+    "previewUrl": "https://www.rockstargames.com/VI/music",
+    "accent": "violet",
+    "glyph": "orbit",
+    "confirmedBy": "https://www.rockstargames.com/VI/music"
+  },
+  {
+    "id": "emotion-98-3",
+    "name": "Emotion 98.3",
+    "frequency": "98.3",
+    "genre": "Soft rock",
+    "genres": [
+      "Soft rock",
+      "Baladas",
+      "Pop rock"
+    ],
+    "description": "La emisora de baladas y soft rock de Vice City vuelve para los trayectos largos. Reportada dentro del juego; Rockstar no publicó su ficha oficial.",
+    "hosts": [],
+    "status": "press-reported",
+    "trackIds": [
+      "t-emotion-98-3-1",
+      "t-emotion-98-3-2",
+      "t-emotion-98-3-3",
+      "t-emotion-98-3-4",
+      "t-gs-emotion-98-3-1",
+      "t-gs-emotion-98-3-2",
+      "t-gs-emotion-98-3-3",
+      "t-gs-emotion-98-3-4",
+      "t-gs-emotion-98-3-5",
+      "t-gs-emotion-98-3-6",
+      "t-gs-emotion-98-3-7",
+      "t-gs-emotion-98-3-8",
+      "t-gs-emotion-98-3-9",
+      "t-gs-emotion-98-3-10",
+      "t-gs-emotion-98-3-11"
+    ],
+    "accent": "violet",
+    "glyph": "wave",
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/"
+  },
+  {
+    "id": "vice-city-fm",
+    "name": "Vice City FM",
+    "frequency": null,
+    "genre": "Pop de los 80",
+    "genres": [
+      "80s pop",
+      "New wave",
+      "Synthpop"
+    ],
+    "description": "Pop y new wave de los 80. Visto en un anuncio real y reportado dentro del juego; Rockstar no la anunció como emisora en su comunicado.",
+    "hosts": [],
+    "status": "press-reported",
+    "trackIds": [
+      "t-vice-city-fm-1",
+      "t-vice-city-fm-2",
+      "t-vice-city-fm-3",
+      "t-vice-city-fm-4",
+      "t-gs-vice-city-fm-1",
+      "t-gs-vice-city-fm-2",
+      "t-gs-vice-city-fm-3",
+      "t-gs-vice-city-fm-4",
+      "t-gs-vice-city-fm-5",
+      "t-gs-vice-city-fm-6",
+      "t-gs-vice-city-fm-7",
+      "t-gs-vice-city-fm-8",
+      "t-gs-vice-city-fm-9"
+    ],
+    "accent": "cyan",
+    "glyph": "sun",
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/"
+  },
+  {
+    "id": "stockyard-fm",
+    "name": "Stockyard FM",
+    "frequency": null,
+    "genre": "Indie y dance",
+    "genres": [
+      "Indie",
+      "Dance",
+      "Electrónica"
+    ],
+    "description": "Indie y dance reportados dentro del juego. Rockstar no publicó su ficha oficial.",
+    "hosts": [],
+    "status": "press-reported",
+    "trackIds": [
+      "t-stockyard-fm-1",
+      "t-stockyard-fm-2",
+      "t-stockyard-fm-3",
+      "t-stockyard-fm-4",
+      "t-gs-stockyard-fm-1",
+      "t-gs-stockyard-fm-2",
+      "t-gs-stockyard-fm-3",
+      "t-gs-stockyard-fm-4",
+      "t-gs-stockyard-fm-5",
+      "t-gs-stockyard-fm-6"
+    ],
+    "accent": "orange",
+    "glyph": "pulse",
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/"
+  },
+  {
+    "id": "vcrr",
+    "name": "VCRR",
+    "frequency": null,
+    "genre": "Rap moderno",
+    "genres": [
+      "Rap",
+      "Hip-hop",
+      "Trap"
+    ],
+    "description": "Rap moderno reportado dentro del juego. Rockstar no publicó su ficha oficial.",
+    "hosts": [],
+    "status": "press-reported",
+    "trackIds": [
+      "t-vcrr-1",
+      "t-vcrr-2",
+      "t-vcrr-3",
+      "t-vcrr-4",
+      "t-gs-vcrr-1",
+      "t-gs-vcrr-2",
+      "t-gs-vcrr-3",
+      "t-gs-vcrr-4",
+      "t-gs-vcrr-5",
+      "t-gs-vcrr-6",
+      "t-gs-vcrr-7",
+      "t-gs-vcrr-8",
+      "t-gs-vcrr-9",
+      "t-gs-vcrr-10",
+      "t-gs-vcrr-11",
+      "t-gs-vcrr-12",
+      "t-gs-vcrr-13",
+      "t-gs-vcrr-14",
+      "t-gs-vcrr-15",
+      "t-gs-vcrr-16",
+      "t-gs-vcrr-17",
+      "t-gs-vcrr-18",
+      "t-gs-vcrr-19",
+      "t-gs-vcrr-20",
+      "t-gs-vcrr-21",
+      "t-gs-vcrr-22",
+      "t-gs-vcrr-23",
+      "t-gs-vcrr-24",
+      "t-gs-vcrr-25",
+      "t-gs-vcrr-26",
+      "t-gs-vcrr-27",
+      "t-gs-vcrr-28",
+      "t-gs-vcrr-29",
+      "t-gs-vcrr-30"
+    ],
+    "accent": "pink",
+    "glyph": "bolt",
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/"
+  },
+  {
+    "id": "honey-fm",
+    "name": "Honey FM",
+    "frequency": null,
+    "genre": "R&B y soul de los 90",
+    "genres": [
+      "R&B",
+      "Soul",
+      "90s"
+    ],
+    "description": "R&B y soul de los 90. También fue vista en material oficial (camiseta y anuncio) antes del lanzamiento; reportada dentro del juego.",
+    "hosts": [],
+    "status": "press-reported",
+    "trackIds": [
+      "t-honey-fm-1",
+      "t-honey-fm-2",
+      "t-honey-fm-3",
+      "t-honey-fm-4",
+      "t-gs-honey-fm-1",
+      "t-gs-honey-fm-2",
+      "t-gs-honey-fm-3",
+      "t-gs-honey-fm-4",
+      "t-gs-honey-fm-5",
+      "t-gs-honey-fm-6",
+      "t-gs-honey-fm-7",
+      "t-gs-honey-fm-8",
+      "t-gs-honey-fm-9",
+      "t-gs-honey-fm-10",
+      "t-gs-honey-fm-11",
+      "t-gs-honey-fm-12",
+      "t-gs-honey-fm-13"
+    ],
+    "accent": "orange",
+    "glyph": "star",
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/"
+  },
+  {
+    "id": "radio-la-ola",
+    "name": "Radio La Ola",
+    "frequency": null,
+    "genre": "Latin clásico",
+    "genres": [
+      "Latin",
+      "Salsa",
+      "Bolero",
+      "Clásicos latinos"
+    ],
+    "description": "La contraparte de oro de Cocoteo FM: clásicos latinos reportados dentro del juego.",
+    "hosts": [],
+    "status": "press-reported",
+    "trackIds": [
+      "t-radio-la-ola-1",
+      "t-radio-la-ola-2",
+      "t-radio-la-ola-3",
+      "t-radio-la-ola-4",
+      "t-gs-radio-la-ola-1",
+      "t-gs-radio-la-ola-2",
+      "t-gs-radio-la-ola-3",
+      "t-gs-radio-la-ola-4",
+      "t-gs-radio-la-ola-5",
+      "t-gs-radio-la-ola-6",
+      "t-gs-radio-la-ola-7"
+    ],
+    "accent": "coral",
+    "glyph": "wave",
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/"
+  },
+  {
+    "id": "radio-on-u",
+    "name": "Radio On-U",
+    "frequency": null,
+    "genre": "Reggae y dub",
+    "genres": [
+      "Reggae",
+      "Dub",
+      "Roots"
+    ],
+    "description": "Dub, reggae y roots con el nombre del sello On-U Sound. Reportada dentro del juego.",
+    "hosts": [],
+    "status": "press-reported",
+    "trackIds": [
+      "t-radio-on-u-1",
+      "t-radio-on-u-2",
+      "t-radio-on-u-3",
+      "t-radio-on-u-4",
+      "t-gs-radio-on-u-1",
+      "t-gs-radio-on-u-2"
+    ],
+    "accent": "cyan",
+    "glyph": "orbit",
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/"
+  },
+  {
+    "id": "v-rock",
+    "name": "V-Rock",
+    "frequency": null,
+    "genre": "Rock clásico",
+    "genres": [
+      "Rock clásico",
+      "Hard rock"
+    ],
+    "description": "El buitre vuelve, ahora con más rock clásico que metal. Visto en material oficial y reportado dentro del juego.",
+    "hosts": [],
+    "status": "press-reported",
+    "trackIds": [
+      "t-v-rock-1",
+      "t-v-rock-2",
+      "t-v-rock-3",
+      "t-v-rock-4",
+      "t-gs-v-rock-1",
+      "t-gs-v-rock-2",
+      "t-gs-v-rock-3",
+      "t-gs-v-rock-4",
+      "t-gs-v-rock-5",
+      "t-gs-v-rock-6",
+      "t-gs-v-rock-7",
+      "t-gs-v-rock-8",
+      "t-gs-v-rock-9",
+      "t-gs-v-rock-10",
+      "t-gs-v-rock-11",
+      "t-gs-v-rock-12",
+      "t-gs-v-rock-13",
+      "t-gs-v-rock-14",
+      "t-gs-v-rock-15",
+      "t-gs-v-rock-16",
+      "t-gs-v-rock-17",
+      "t-gs-v-rock-18",
+      "t-gs-v-rock-19",
+      "t-gs-v-rock-20"
+    ],
+    "accent": "violet",
+    "glyph": "bolt",
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/"
+  },
+  {
+    "id": "gloriana-blues-radio",
+    "name": "Gloriana Blues Radio",
+    "frequency": null,
+    "genre": "Blues",
+    "genres": [
+      "Blues",
+      "Delta blues",
+      "R&B"
+    ],
+    "description": "Blues en todas sus variantes, reportado dentro del juego. Rockstar no publicó su ficha oficial.",
+    "hosts": [],
+    "status": "press-reported",
+    "trackIds": [
+      "t-gloriana-blues-radio-1",
+      "t-gloriana-blues-radio-2",
+      "t-gloriana-blues-radio-3",
+      "t-gloriana-blues-radio-4",
+      "t-gs-gloriana-blues-radio-1",
+      "t-gs-gloriana-blues-radio-2",
+      "t-gs-gloriana-blues-radio-3",
+      "t-gs-gloriana-blues-radio-4"
+    ],
+    "accent": "orange",
+    "glyph": "disc",
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/"
+  },
+  {
+    "id": "leonida-jazz-radio",
+    "name": "Leonida Jazz Radio",
+    "frequency": null,
+    "genre": "Jazz fusión",
+    "genres": [
+      "Jazz",
+      "Fusión",
+      "Jazz funk"
+    ],
+    "description": "Fusión y jazz de los 70 reportados dentro del juego. Rockstar no publicó su ficha oficial.",
+    "hosts": [],
+    "status": "press-reported",
+    "trackIds": [
+      "t-leonida-jazz-radio-1",
+      "t-leonida-jazz-radio-2",
+      "t-leonida-jazz-radio-3",
+      "t-leonida-jazz-radio-4",
+      "t-gs-leonida-jazz-radio-1",
+      "t-gs-leonida-jazz-radio-2"
+    ],
+    "accent": "violet",
+    "glyph": "orbit",
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/"
+  },
+  {
+    "id": "symphony-fm",
+    "name": "Symphony FM",
+    "frequency": null,
+    "genre": "Clásica",
+    "genres": [
+      "Clásica",
+      "Orquestal"
+    ],
+    "description": "Música clásica y orquestal reportada dentro del juego. Rockstar no publicó su ficha oficial.",
+    "hosts": [],
+    "status": "press-reported",
+    "trackIds": [
+      "t-symphony-fm-1",
+      "t-symphony-fm-2",
+      "t-symphony-fm-3",
+      "t-symphony-fm-4",
+      "t-gs-symphony-fm-1",
+      "t-gs-symphony-fm-2",
+      "t-gs-symphony-fm-3",
+      "t-gs-symphony-fm-4",
+      "t-gs-symphony-fm-5",
+      "t-gs-symphony-fm-6"
+    ],
+    "accent": "cyan",
+    "glyph": "star",
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/"
+  },
+  {
+    "id": "worldwide-fm",
+    "name": "Worldwide FM",
+    "frequency": null,
+    "genre": "World music y jazz",
+    "genres": [
+      "World",
+      "Jazz",
+      "Global club"
+    ],
+    "description": "Música del mundo y jazz; regresa de GTA V. Reportada dentro del juego.",
+    "hosts": [],
+    "status": "press-reported",
+    "trackIds": [
+      "t-worldwide-fm-1",
+      "t-worldwide-fm-2",
+      "t-worldwide-fm-3",
+      "t-worldwide-fm-4",
+      "t-gs-worldwide-fm-1",
+      "t-gs-worldwide-fm-2",
+      "t-gs-worldwide-fm-3",
+      "t-gs-worldwide-fm-4",
+      "t-gs-worldwide-fm-5",
+      "t-gs-worldwide-fm-6"
+    ],
+    "accent": "orange",
+    "glyph": "orbit",
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/"
+  },
+  {
+    "id": "kaleidoscope-fm",
+    "name": "Kaleidoscope FM",
+    "frequency": null,
+    "genre": "Global pop ecléctico",
+    "genres": [
+      "Global pop",
+      "Ecléctico",
+      "Covers"
+    ],
+    "description": "Covers insólitos, pop global y discos finlandeses, con Jeremy Irons como locutor. Reportada dentro del juego.",
+    "hosts": [
+      {
+        "name": "Jeremy Irons"
+      }
+    ],
+    "status": "press-reported",
+    "trackIds": [
+      "t-kaleidoscope-fm-1",
+      "t-kaleidoscope-fm-2",
+      "t-kaleidoscope-fm-3",
+      "t-kaleidoscope-fm-4",
+      "t-gs-kaleidoscope-fm-1",
+      "t-gs-kaleidoscope-fm-2",
+      "t-gs-kaleidoscope-fm-3"
+    ],
+    "accent": "pink",
+    "glyph": "star",
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/"
+  },
+  {
+    "id": "wktt",
+    "name": "WKTT",
+    "frequency": null,
+    "genre": "Talk radio",
+    "genres": [
+      "Talk",
+      "Sátira",
+      "Call-in"
+    ],
+    "description": "We Know The Truth: talk show conservador satírico con Stavros Halkias. Reportado dentro del juego; sin canciones.",
+    "hosts": [
+      {
+        "name": "Stavros Halkias"
+      }
+    ],
+    "status": "press-reported",
+    "trackIds": [],
+    "accent": "coral",
+    "glyph": "pulse",
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/"
+  },
+  {
+    "id": "the-wipe",
+    "name": "The Wipe",
+    "frequency": null,
+    "genre": "Talk radio",
+    "genres": [
+      "Talk",
+      "Sátira",
+      "Trivia"
+    ],
+    "description": "Talk show satírico sobre las rarezas de Leonida. Reportado dentro del juego; sin canciones.",
+    "hosts": [],
+    "status": "press-reported",
+    "trackIds": [],
+    "accent": "violet",
+    "glyph": "disc",
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/"
+  },
+  {
+    "id": "vault-radio",
+    "name": "The Vault Radio",
+    "frequency": null,
+    "genre": "Electrónica y rave",
+    "genres": [
+      "Electrónica",
+      "Rave",
+      "Dance"
+    ],
+    "description": "Emisora secreta: se desbloquea escaneando el póster de la máscara rosa en The Vault Nightclub, en Vice City. Reproduce la música de dance y electrónica del club. Reportada dentro del juego.",
+    "hosts": [],
+    "status": "press-reported",
+    "trackIds": [],
+    "accent": "cyan",
+    "glyph": "bolt",
+    "confirmedBy": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/"
+  }
+]
