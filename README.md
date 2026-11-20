@@ -38,6 +38,10 @@ El importador de YouTube requiere `YOUTUBE_API_KEY` en `.env.local`; procesa off
 
 `browser-check.mjs` usa `playwright-core` con el Edge instalado y guarda capturas en el directorio temporal del sistema (`radio-shots`).
 
+## Publicar en GitHub Pages
+
+El workflow `.github/workflows/deploy-pages.yml` exporta la app como archivos estáticos y publica el directorio `out` al hacer push a `main`. En GitHub, abre **Settings → Pages** y selecciona **GitHub Actions** como fuente de publicación. La URL del proyecto es `https://federicoferessin.github.io/Radio-Leonida/`. La configuración de `/Radio-Leonida` se aplica solo en ese workflow; `npm run dev` sigue usando rutas locales normales. GitHub Pages sirve el sitio públicamente aunque el repositorio sea privado.
+
 ## Stack
 
 Next.js (App Router) · TypeScript strict · Tailwind CSS 4 · Motion · React Context + `useReducer`. Sin backend.
